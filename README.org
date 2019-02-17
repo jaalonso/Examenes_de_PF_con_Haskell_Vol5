@@ -1,0 +1,73 @@
+# Exámenes de programación funcional con Haskell. Vol. 5 (Curso 2013-14)
+
+Este repositorio contiene los las soluciones de ejercicios de los exámenes de
+programación funcional con Haskell de la [[http://www.cs.us.es/~jalonso/cursos/i1m-13][asignatura de Informática]] del [[http://www.matematicas.us.es/estudios/grado-en-matematicas][Grado en
+Matemática]] de la [[http://www.us.es][Universidad de Sevilla]].
+
+Consta de dos directorio:
++ [[Libro]]: con contiene el código LaTeX del libro de exámenes y el
+  [[Libro/Examenes_de_PF_con_Haskell_Vol5.pdf][libro en PDF]].
++ [[Examenes]]: que contiene el código Haskell de las soluciones de los ejercicios. 
+
+Los exámenes se realizaron en el aula de informática y su duración
+fue de 2 horas. La materia de cada examen es la impartida desde el
+comienzo del curso (generalmente, el 1 de octubre) hasta la fecha
+del examen.
+
+Los ejercicios de cada examen han sido propuestos por los profesores de su grupo
+(cuyos nombres aparecen en el título del capítulo). Sin embargo, los he
+modificado para unificar el estilo de su presentación.
+
+Los exámenes de cada grupo (y sus correspondientes profesores) son:
+
+
++ Grupo 3 (José A. Alonso y Luis Valencia)
+  + [[Examenes/Grupo_1/examen_1_05_nov.hs][Examen 1]] (5 de noviembre de 2013).
+  + [[Examenes/Grupo_1/examen_2_17_dic.hs][Examen 2]] (17 de diciembre de 2013).
+  + [[Examenes/Grupo_1/examen_3_23_ene.hs][Examen 3]] (23 de enero de 2014).
+  + [[Examenes/Grupo_1/examen_4_21_mar.hs][Examen 4]] (21 de marzo de 2014).
+  + [[Examenes/Grupo_1/examen_5_16_may.hs][Examen 5]] (16 de mayo de 2014).
+  + [[Examenes/Grupo_1/examen_6_18_jun.hs][Examen 6]] (18 de junio de 2014).
+  + [[Examenes/Grupo_1/examen_7_04_jul.hs][Examen 7]] (4 de julio de 2014).
+  + [[Examenes/Grupo_1/examen_8_10_sep.hs][Examen 8]] (10 de septiembre de 2014).
+  + [[Examenes/Grupo_1/examen_9_20_nov.hs][Examen 9]] (10 de noviembre de 2014).
++ Grupo 2 (Antonia M. Chávez)
+  + [[Examenes/Grupo_2/examen_1_06_nov.hs][Examen 1]] (6 de noviembre de 2013).
+  + [[Examenes/Grupo_2/examen_2_04_dic.hs][Examen 2]] (4 de diciembre de 2013).
+  + [[Examenes/Grupo_1/examen_3_23_ene.hs][Examen 3]] (23 de enero de 2014).
+  + [[Examenes/Grupo_2/examen_4_24_mar.hs][Examen 4]] (24 de marzo de 2014).
+  + [[Examenes/Grupo_2/examen_5_19_may.hs][Examen 5]] (19 de mayo de 2014).
+  + [[Examenes/Grupo_2/examen_6_18_jun.hs][Examen 6]] (18 de junio de 2014).
+  + [[Examenes/Grupo_1/examen_7_04_jul.hs][Examen 7]] (4 de julio de 2014).
+  + [[Examenes/Grupo_1/examen_8_10_sep.hs][Examen 8]] (10 de septiembre de 2014).
+  + [[Examenes/Grupo_1/examen_9_20_nov.hs][Examen 9]] (10 de noviembre de 2014).
++ Grupo 3 (María J. Hidalgo).
+  + [[Examenes/Grupo_3/examen_1_07_nov.hs][Examen 1]] (7 de noviembre de 2013).
+  + [[Examenes/Grupo_3/examen_2_19_dic.hs][Examen 2]] (19 de diciembre de 2013).
+  + [[Examenes/Grupo_3/examen_3_23_ene.hs][Examen 3]] (23 de enero de 2014).
+  + [[Examenes/Grupo_3/examen_4_20_mar.hs][Examen 4]] (20 de marzo de 2014).
+  + [[Examenes/Grupo_3/examen_5_15_may.hs][Examen 5]] (15 de mayo de 2014).
+  + [[Examenes/Grupo_3/examen_6_18_jun.hs][Examen 6]] (18 de junio de 2014).
+  + [[Examenes/Grupo_1/examen_7_04_jul.hs][Examen 7]] (4 de julio de 2014).
+  + [[Examenes/Grupo_1/examen_8_10_sep.hs][Examen 8]] (10 de septiembre de 2014).
+  + [[Examenes/Grupo_1/examen_9_20_nov.hs][Examen 9]] (10 de noviembre de 2014).
++ Grupo 4 (Francisco J. Martín)
+  + [[Examenes/Grupo_4/examen_1_11_nov.hs][Examen 1]] (11 de noviembre de 2013).
+  + [[Examenes/Grupo_4/examen_2_16_dic.hs][Examen 2]] (16 de diciembre de 2013).
+  + [[Examenes/Grupo_3/examen_3_23_ene.hs][Examen 3]] (23 de enero de 2014).
+  + [[Examenes/Grupo_4/examen_1_11_nov.hs][Examen 4]] (20 de marzo de 2014).
+  + [[Examenes/Grupo_4/examen_2_16_dic.hs][Examen 5]] (22 de mayo de 2014).
+  + [[Examenes/Grupo_3/examen_6_18_jun.hs][Examen 6]] (18 de junio de 2014).
+  + [[Examenes/Grupo_1/examen_7_04_jul.hs][Examen 7]] (4 de julio de 2014).
+  + [[Examenes/Grupo_1/examen_8_10_sep.hs][Examen 8]] (10 de septiembre de 2014).
+  + [[Examenes/Grupo_1/examen_9_20_nov.hs][Examen 9]] (10 de noviembre de 2014).
++ Grupo 5 (Andrés Cordón y Miguel A. Martínez)
+  + [[Examenes/Grupo_5/examen_1_04_nov.hs][Examen 1]] (4 noviembre de 2013).
+  + [[Examenes/Grupo_5/examen_2_16_dic.hs][Examen 2]] (16 diciembre de 2013).
+  + [[Examenes/Grupo_3/examen_3_23_ene.hs][Examen 3]] (23 de enero de 2014).
+  + [[Examenes/Grupo_5/examen_4_19_mar.hs][Examen 4]] (19 marzo de 2014).
+  + [[Examenes/Grupo_5/examen_5_21_may.hs][Examen 5]] (21 mayo de 2014).
+  + [[Examenes/Grupo_3/examen_6_18_jun.hs][Examen 6]] (18 de junio de 2014).
+  + [[Examenes/Grupo_1/examen_7_04_jul.hs][Examen 7]] (4 de julio de 2014).
+  + [[Examenes/Grupo_1/examen_8_10_sep.hs][Examen 8]] (10 de septiembre de 2014).
+  + [[Examenes/Grupo_1/examen_9_20_nov.hs][Examen 9]] (10 de noviembre de 2014).
