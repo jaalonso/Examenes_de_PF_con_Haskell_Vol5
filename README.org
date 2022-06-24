@@ -1,5 +1,5 @@
 # Exámenes de programación funcional con Haskell. Vol. 5 (Curso 2013-14)
-
+ 
 Este repositorio contiene los las soluciones de ejercicios de los exámenes de
 programación funcional con Haskell de la [[http://www.cs.us.es/~jalonso/cursos/i1m-13][asignatura de Informática]] del [[http://www.matematicas.us.es/estudios/grado-en-matematicas][Grado en
 Matemática]] de la [[http://www.us.es][Universidad de Sevilla]].
@@ -19,9 +19,7 @@ Los ejercicios de cada examen han sido propuestos por los profesores de su grupo
 modificado para unificar el estilo de su presentación.
 
 Los exámenes de cada grupo (y sus correspondientes profesores) son:
-
-
-+ Grupo 3 (José A. Alonso y Luis Valencia)
++ Grupo 1 (José A. Alonso y Luis Valencia)
   + [[Examenes/Grupo_1/examen_1_05_nov.hs][Examen 1]] (5 de noviembre de 2013).
   + [[Examenes/Grupo_1/examen_2_17_dic.hs][Examen 2]] (17 de diciembre de 2013).
   + [[Examenes/Grupo_1/examen_3_23_ene.hs][Examen 3]] (23 de enero de 2014).
